@@ -1,7 +1,7 @@
 ---
 title: "Commodore 64 User Manual"
 date: 2019-11-16T12:05:22Z
-draft: true
+draft: false
 ---
 
 ### My First Programming User Manual
