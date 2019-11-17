@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-11-16T12:11:16Z
-draft: true
+draft: false
 ---
 
 # Aidan Dennehy
