@@ -1,5 +1,5 @@
-# baseURL = "https://peaceful-williams-966ba2.netlify.com"
-baseURL = "www.example.org"
+baseURL = "https://peaceful-williams-966ba2.netlify.com"
+# baseURL = "www.example.org"
 languageCode = "en-us"
 title = "AD Portfolio"
 
