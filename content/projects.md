@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-11-17T20:32:16Z
-draft: true
+draft: false
 ---
 
 {{< youtube VPQ2-w7Pe44 >}}
