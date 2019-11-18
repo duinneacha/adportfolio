@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+  crossorigin="anonymous">
+
+  <!-- <link rel="stylesheet" href="{{.Site.BaseURL}}static/css/adstyles.css"> -->
+  <style>
+  
+    body {
+    margin: 40px;
+  }
+
+  .wrapper {
+          display: grid;
+      grid-gap: 10px;
+          grid-template-columns: repeat(4, [col] 100px ) ;
+          grid-template-rows: repeat(3, [row] auto  );
+          background-color: #fff;
+          color: #444;
+      }
+
+      .box {
+          background-color: #444;
+          color: #fff;
+          border-radius: 5px;
+          padding: 20px;
+          font-size: 150%;
+
+      }
+
+    .a {
+          grid-column: col / span 2;
+          grid-row: row ;
+      }
+      .b {
+          grid-column: col 3 / span 2 ;
+          grid-row: row ;
+      }
+      .c {
+          grid-column: col ;
+          grid-row: row 2 ;
+      }
+      .d {
+          grid-column: col 2 / span 3 ;
+          grid-row: row 2 ;
+      }
+
+      .e {
+          grid-column: col / span 4;
+          grid-row: row 3;
+      }
+
+  </style>
+  <title>AD WORK</title>
+  
+</head>
+<body>
+  <h1>This is WORK</h1>
+  <h1>This is WORK</h1>
+  <h1>This is WORK</h1>
+  <h1>This is WORK</h1>
+  <a href="/">Home</a>
+  {{.Content}}
+
+  <div class="projects">
+    <div class="box a1">
+      <a href="#">
+        <img src="https://i.imgur.com/xUe1IYh.jpg" alt="Project">
+      </a>
+      <a href="https://protected-everglades-17052.herokuapp.com" target="_blank" class="btn-light">
+        <i class="fas fa-eye"></i> Node Chat App Project (Live)
+      </a>
+      <a href="https://github.com/duinneacha/chat-app" target="_blank" class="btn-dark">
+        <i class="fab fa-github"></i> Github
+      </a>
+    </div>
+    <div class="box a2">
+      <a href="#!">
+        <img src="https://i.imgur.com/wDH2lSn.jpg" alt="Project" target="_blank">
+      </a>
+      <a href="https://salty-plains-89301.herokuapp.com/index.html" target="_blank" class="btn-light">
+        <i class="fas fa-eye"></i> GitHub Finder Project (Live)
+      </a>
+      <a href="https://github.com/duinneacha/github-search" target="_blank" class="btn-dark">
+        <i class="fab fa-github"></i> Github
+      </a>
+    </div>
+    <div class="box a3">
+      <a href="#!">
+        <img src="https://i.imgur.com/2MUSGoZ.jpg" alt="Project">
+      </a>
+      <a href="#" class="btn-light">
+        <i class="fas fa-eye"></i> Sample CIT Project (Not Live)
+      </a>
+      <a href="https://github.com/duinneacha/citproj2" target="_blank" class="btn-dark">
+        <i class="fab fa-github"></i> Github
+      </a>
+    </div>
+    <div class="box a4">
+      <a href="#!">
+        <img src="https://i.imgur.com/fgYbFpc.jpg" alt="Project">
+      </a>
+      <a href="#" class="btn-light">
+        <i class="fas fa-eye"></i> Sample scripts in bash and python (Not Live)
+      </a>
+      <a href="https://github.com/duinneacha/script-samples" target="_blank" class="btn-dark">
+        <i class="fab fa-github"></i> Github
+      </a>
+    </div>
+    <div class="box a5">
+      <a href="#!">
+        <img src="https://i.imgur.com/fgYbFpc.jpg" alt="Project">
+      </a>
+      <a href="https://arcane-earth-76071.herokuapp.com/index.html" target="_blank" class="btn-light">
+        <i class="fas fa-eye"></i> Small Loan Calculator (Live)
+      </a>
+      <a href="https://github.com/duinneacha/loan-calculator" target="_blank" class="btn-dark">
+        <i class="fab fa-github"></i> Github
+      </a>
+    </div>
+  </div>
+</body>
+</html>
