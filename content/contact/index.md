@@ -1,7 +1,7 @@
 ---
 title: "Get in touch"
 date: 2019-11-19T15:31:23Z
-draft: true
+draft: false
 ---
 
 <form method="post" name="Contact">
