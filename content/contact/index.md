@@ -4,8 +4,12 @@ date: 2019-11-19T15:31:23Z
 draft: false
 ---
 
-<form method="post" name="Contact" netlify>
+<form action="/thankyou" method="post" name="Contact" data-netlify="true" netlify-honeypot="bot-field" netlify>
 
+  <p vissibility: hidden>
+    <label>Dont fill this in if you are human</label> 
+    <input name="bot-field"> 
+  </p>
   <label for="fname">First Name</label>
   <br>
   <input type="text" id="fname" name="firstname" placeholder="Your first name. . .">
