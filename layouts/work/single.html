@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
   crossorigin="anonymous">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <!-- <link rel="stylesheet" href="{{.Site.BaseURL}}static/css/adstyles.css"> -->
   <style>
@@ -16,8 +19,8 @@
     }
 
     img {
-        width: 100%;0
-        height: 100%;
+        width: 100%;
+        height: 20vw;
       }
 
     a {
@@ -79,16 +82,39 @@
     grid-row: 1 / 2;
   }
 
+  .mySlides {
+    display:none;
+    height: 20vw;
+
+  }
+ .mySlides img {
+    width: 80vw;
+    height: 40vw;
+    object-fit: cover;
+ }
+
+ h2 {
+   background: #a3a7ad;
+   text-align: center;
+ }
+
+ .hometag{
+   background: #a3a7ad;
+   padding: 2vw;
+   font-size: 200%;
+   font-weight: 700;
+   margin: 1vw;
+   margin-bottom: 1vw;
+ }
+
   </style>
   <title>AD WORK</title>
   
 </head>
 <body>
-  <h1>This is WORK</h1>
-  <h1>This is WORK</h1>
-  <h1>This is WORK</h1>
-  <h1>This is WORK</h1>
-  <a href="/">Home</a>
+    <a href="/" class="hometag">Home</a>
+  <h2>These are a sample of my Projects</h2>
+  
   {{.Content}}
 
   <div class="wrapper">
@@ -162,5 +188,40 @@
         </div>
     </div>
   </div>
+  <hr>
+  <h2 class="w3-center">Manual Slideshow</h2>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="https://i.imgur.com/xUe1IYh.jpg" style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/wDH2lSn.jpg" style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/2MUSGoZ.jpg" style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/fgYbFpc.jpg" style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/fgYbFpc.jpg" style="width:100%">
+  
+  
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+  <script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+      }
+      x[slideIndex-1].style.display = "block";  
+    }
+    </script>
+    
 </body>
 </html>
