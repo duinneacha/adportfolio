@@ -26,6 +26,9 @@ draft: false
   <textarea id="message" name="message" placeholder="Write something interesting . . ." style="height: 20vw; width: 70vw"></textarea>
   <br>
   <br>
+  <div data-netlify-recaptcha></div>
+  <br>
+  <br>
   <input type="submit" value="Submit" style="height: 10vw; width: 15vw; cursor: pointer; font-size: 2vw;">
   
 </form>
