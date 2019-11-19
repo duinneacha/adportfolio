@@ -4,7 +4,7 @@ date: 2019-11-19T15:31:23Z
 draft: false
 ---
 
-<form method="post" name="Contact">
+<form method="post" name="Contact" netlify>
 
   <label for="fname">First Name</label>
   <br>
