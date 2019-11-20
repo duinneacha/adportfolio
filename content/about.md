@@ -7,6 +7,11 @@ draft: false
 
 ## 4th Year Web Development Student at [CIT](https://www.cit.ie "CIT Homepage")
 
+
+
 ### Ambition:
 
 To see what tomorrow looks like.
+
+
+{{< aboutslideshow >}}
