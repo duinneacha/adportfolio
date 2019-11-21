@@ -30,16 +30,13 @@ draft: false
   [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/commodore-64-user-manual/)
 
 
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/markdown-cheat-sheet/)
+  [Blog Example - Markdown Cheat Sheet](https://peaceful-williams-966ba2.netlify.com/blogs/markdown-cheat-sheet/)
 
 
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/my-first-post/)
+  [Blog Example - Create new Theme](https://peaceful-williams-966ba2.netlify.com/blogs/creating-a-new-theme/)
 
 
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/creating-a-new-theme/)
-
-
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/hugoisforlovers/)
+  [Blog Example - Hugo is for lovers](https://peaceful-williams-966ba2.netlify.com/blogs/hugoisforlovers/)
 
 
   [Testiminials](https://peaceful-williams-966ba2.netlify.com/testimonials/)
