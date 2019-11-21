@@ -5,87 +5,55 @@ draft: false
 ---
 
 
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/about/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/work/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/projects/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/contact/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/slide-show-example1/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/commodore-64-user-manual/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/markdown-cheat-sheet/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/my-first-post/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/creating-a-new-theme/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/blogs/hugoisforlovers/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/testimonials/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/services/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/process/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://peaceful-williams-966ba2.netlify.com/casestudies/</loc>
-  <lastmod>2019-11-21T13:48:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+
+  [Home](https://peaceful-williams-966ba2.netlify.com/)
 
 
-</urlset>
+  [About](https://peaceful-williams-966ba2.netlify.com/about/)
+
+
+  [Blogs](https://peaceful-williams-966ba2.netlify.com/blogs/)
+
+
+  [Work](https://peaceful-williams-966ba2.netlify.com/work/)
+
+
+  [Projects](https://peaceful-williams-966ba2.netlify.com/projects/)
+
+
+  [Contact](https://peaceful-williams-966ba2.netlify.com/contact/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/slide-show-example1/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/commodore-64-user-manual/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/markdown-cheat-sheet/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/my-first-post/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/creating-a-new-theme/)
+
+
+  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/hugoisforlovers/)
+
+
+  [Testiminials](https://peaceful-williams-966ba2.netlify.com/testimonials/)
+
+
+  [Services](https://peaceful-williams-966ba2.netlify.com/services/)
+
+
+  [Processes](https://peaceful-williams-966ba2.netlify.com/process/)
+
+
+  [Case Studies](https://peaceful-williams-966ba2.netlify.com/casestudies/)
+
+
+
+
 
