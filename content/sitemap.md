@@ -24,10 +24,10 @@ draft: false
   [Contact](https://peaceful-williams-966ba2.netlify.com/contact/)
 
 
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/slide-show-example1/)
+  [Blog Example - Slide Show](https://peaceful-williams-966ba2.netlify.com/blogs/slide-show-example1/)
 
 
-  [Blog Example](https://peaceful-williams-966ba2.netlify.com/blogs/commodore-64-user-manual/)
+  [Blog Example - Commodore 64 User Manual](https://peaceful-williams-966ba2.netlify.com/blogs/commodore-64-user-manual/)
 
 
   [Blog Example - Markdown Cheat Sheet](https://peaceful-williams-966ba2.netlify.com/blogs/markdown-cheat-sheet/)
